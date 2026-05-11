@@ -1,41 +1,38 @@
-Conditions for Non-Fragility
+# Conditions for Non-Fragility
 
-— A Living Whitepaper
+## — A Living Whitepaper
 
-0. Premise
+### 0. Premise
 
 This document does not attempt to define correctness.
 
-It assumes:
+Assumptions:
 
-・ People react before they reflect
-
-
-・ Information distorts as it spreads
+- People react before they reflect
 
 
-・ Trust is unevenly distributed
+- Information distorts as it spreads
 
 
-・ Responsibility is often diffused or avoided
+- Trust is unevenly distributed
+
+
+- Responsibility is often diffused or avoided
 
 
 
 Failure does not appear to be an exception.
 
-
 In many observed cases, it functions as a default condition.
 
-Therefore, the goal is not to prevent failure,
-
+The goal is not to prevent failure,
 
 but to design conditions under which systems do not collapse when failure occurs.
 
+
 This is not a prescription.
 
-
-It is a set of observed conditions.
-
+It reflects observed conditions.
 
 
 1. From Reaction to Structure
