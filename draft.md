@@ -13,8 +13,8 @@ Information distorts as it spreads
 Trust is unevenly distributed
 Responsibility is often diffused or avoided
 
-Failure is not an exception.
-It is the default condition.
+Failure does not appear to be an exception.
+In many observed cases, it functions as a default condition.
 
 Therefore, the goal is not to prevent failure,
 but to design conditions under which systems do not collapse when failure occurs.
@@ -47,7 +47,7 @@ Not by suppressing reaction, but by inserting a pause before escalation
 
 2. Trust as Allocation, Not Truth
 
-Trust is not binary.
+Trust is often not binary.
 
 It is dynamically allocated across:
 
