@@ -71,24 +71,29 @@ but by inserting a pause before escalation.
 
 ---
 
-2. Trust as Allocation, Not Truth
+### 2. Trust as Allocation, Not Truth
 
 Trust is often not binary.
 
 It is dynamically allocated across:
 
-Source (external credibility)
-User (contextual reliability)
-System (internal confidence)
+- Source (external credibility)
+
+- User (contextual reliability)
+
+- System (internal confidence)
 
 Failure occurs when:
 
-the weakest certainty is treated as the strongest
+the weakest certainty tends to be treated as the strongest.
 
 Non-fragility requires:
 
-Recognizing relative confidence
-Adjusting weight without collapsing dialogue
+- Recognizing relative confidence
+  
+- Adjusting weight without collapsing dialogue
+
+---
 
 3. Modes Before Meaning
 
