@@ -248,21 +248,21 @@ Uncertainty is not disguised.
 
 ---
 
-9. Adoption by Preference, Not Enforcemen
+### 9. Adoption by Preference, Not Enforcemen
 
-Systems do not change by force.
+Systems do not change by force.  
 
-They change when:
+Better behavior prevails.  
 
-better behavior becomes naturally preferable
+Visibility shifts to verified information.  
 
-Verified information gains visibility
-Traceable sources gain trust
-Untraceable content loses influence
+Trust accumulates in traceable sources.
 
-Non-fragility spreads through:
+Influence leaves what cannot be traced.
 
-selection, not imposition
+Non-fragility spreads through selection.
+
+---
 
 10. Maintenance as Continuous Adaptation
 
