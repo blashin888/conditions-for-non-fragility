@@ -203,25 +203,29 @@ It is misalignment between scale and response.
 
 ---
 
-7. Trace Over Truth
+### 7. Trace Over Truth
 
 Truth is unstable.
 
 Trace is not.
 
-Non-fragility shifts focus from:
+Shift of focus:
 
-Determining truth
-to
-Revealing transformation
+- From determining truth
+
+- To revealing transformation
 
 Core elements:
 
-Origin (where it started)
-Transformation (how it changed)
-Attribution (who altered it)
+- Origin
 
-Distortion becomes visible
+- Transformation
+
+- Attribution
+
+Distortion becomes visible.
+
+---
 
 8. Verification Without Collapse
 
