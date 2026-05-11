@@ -14,6 +14,8 @@ Trust is unevenly distributed
 Responsibility is often diffused or avoided
 
 Failure does not appear to be an exception.
+
+
 In many observed cases, it functions as a default condition.
 
 Therefore, the goal is not to prevent failure,
