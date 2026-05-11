@@ -1,0 +1,1 @@
+# conditions-for-non-fragility
