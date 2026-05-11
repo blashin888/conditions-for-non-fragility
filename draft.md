@@ -29,10 +29,18 @@ The goal is not to prevent failure,
 
 but to design conditions under which systems do not collapse when failure occurs.
 
+#
+This is not a prescription.
+
+It reflects observed conditions.
 
 This is not a prescription.
 
 It reflects observed conditions.
+
+This is not addressed to any specific role.
+
+It is an observation placed between roles.
 
 ---
 
@@ -177,20 +185,23 @@ A decision can be retraced.
 
 ---
 
-6. Scale Mismatch and Collapse
+### 6. Scale Mismatch and Collapse
 
 In modern systems:
 
-Small deviations are amplified globally
-Local issues become mass judgment
-Informal contexts become permanent records
+- Small deviations amplify globally
+
+- Local issues scale into mass judgment
+
+- Informal contexts harden into permanent records
 
 This creates disproportionate damage.
 
-The issue is not violation itself,
-but:
+The issue is not violation itself.
 
-misalignment between scale and response
+It is misalignment between scale and response.
+
+---
 
 7. Trace Over Truth
 
