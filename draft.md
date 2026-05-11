@@ -95,27 +95,33 @@ Non-fragility requires:
 
 ---
 
-3. Modes Before Meaning
+### 3. Modes Before Meaning
 
 Errors are not only about content.
 
 They are about mode selection.
 
-Different contexts require different modes:
+Different contexts call for different modes:
 
-Exploration
-Verification
-Update (real-time relevance)
-Emergency (safety-first)
+- Exploration
+
+- Verification
+
+- Update
+
+- Emergency
 
 Failure occurs when:
 
-a situation is processed under the wrong mode
+a situation tends to be processed under the wrong mode.
 
 Non-fragility requires:
 
-Recognizing context before responding
-Allowing mode transitions without rupture
+- Recognizing context before responding
+
+- Allowing mode transitions without rupture
+
+---
 
 4. Distributed Structure, Anchored Responsibility
 
