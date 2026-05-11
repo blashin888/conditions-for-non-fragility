@@ -123,24 +123,32 @@ Non-fragility requires:
 
 ---
 
-4. Distributed Structure, Anchored Responsibility
+### 4. Distributed Structure, Anchored Responsibility
 
 Scale requires distribution.
 
-But distribution introduces:
+Distribution introduces:
 
-Dilution of responsibility
-Inconsistency of judgment
-Entry points for manipulation
+- Dilution of responsibility
 
-Non-fragility is not achieved by removing distribution,
-but by structuring it:
+- Inconsistency of judgment
 
-Roles are distributed
-Responsibility is layered
-Final accountability is anchored somewhere
+- Entry points for manipulation
 
-Responsibility may flow, but it must eventually stop
+Non-fragility tends to come not from removing distribution, but from structuring it.
+
+- Roles are distributed
+
+- Responsibility is layered
+
+- Final accountability is anchored somewhere
+
+Responsibility may flow,
+
+
+but it eventually needs to stop.
+
+---
 
 5. Legitimacy Through Reproducibility
 
