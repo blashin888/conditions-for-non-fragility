@@ -150,25 +150,32 @@ but it eventually needs to stop.
 
 ---
 
-5. Legitimacy Through Reproducibility
+### 5. Legitimacy Through Reproducibility
 
 Universal agreement is impossible.
 
 Instead, systems must aim for:
 
-decisions that are difficult to overturn, not universally accepted
+decisions that are difficult to overturn,
+not universally accepted.
 
-This is achieved through:
+Supported through:
 
-Transparent facts
-Explicit rules
-Causal breakdown
-Proportional response
-Visible procedure
+- Transparent facts
+
+- Explicit rules
+
+- Causal breakdown
+
+- Proportional response
+
+- Visible procedure
 
 The core condition:
 
-A decision can be retraced
+A decision can be retraced.
+
+---
 
 6. Scale Mismatch and Collapse
 
