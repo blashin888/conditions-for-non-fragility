@@ -34,29 +34,42 @@ This is not a prescription.
 
 It reflects observed conditions.
 
+---
 
-1. From Reaction to Structure
+
+### 1. From Reaction to Structure
 
 The starting point is not theory, but experience.
 
 A conflict occurs:
 
-A user brings fresh information
-A system responds with caution
-The user perceives denial
+- A user brings fresh information
+
+  
+- A system responds with caution
+
+  
+- The user perceives denial
 
 The reaction is immediate: frustration.
 
 But when paused and examined,
+
+
 the conflict reveals a structural misalignment:
 
-The “present” is not shared
-Trust is weighted differently
-Responsibility is handled asymmetrically
+- The “present” is not shared
 
-Non-fragility begins here:
+- Trust is weighted differently
 
-Not by suppressing reaction, but by inserting a pause before escalation
+- Responsibility is handled asymmetrically
+
+Non-fragility begins here.
+
+Not by suppressing reaction,
+but by inserting a pause before escalation.
+
+---
 
 2. Trust as Allocation, Not Truth
 
