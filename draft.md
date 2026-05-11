@@ -231,19 +231,22 @@ Distortion becomes visible.
 
 ---
 
-8. Verification Without Collapse
+### 8. Verification Without Collapse
 
-Verification is necessary.
+Verification is necessary.  
 
-But uncontrolled verification becomes misinformation.
+Uncontrolled verification becomes misinformation.  
 
-Therefore:
+States become visible  
+(experimental / ongoing / validated)
 
-States must be visible (experimental / ongoing / validated)
-Context must persist
-Partial knowledge must remain labeled
+Context persists.  
 
-Uncertainty must not be disguised as certainty
+Partial knowledge remains labeled.  
+
+Uncertainty is not disguised.
+
+---
 
 9. Adoption by Preference, Not Enforcemen
 
