@@ -8,10 +8,18 @@ This document does not attempt to define correctness.
 
 It assumes:
 
-People react before they reflect
-Information distorts as it spreads
-Trust is unevenly distributed
-Responsibility is often diffused or avoided
+・ People react before they reflect
+
+
+・ Information distorts as it spreads
+
+
+・ Trust is unevenly distributed
+
+
+・ Responsibility is often diffused or avoided
+
+
 
 Failure does not appear to be an exception.
 
@@ -19,10 +27,16 @@ Failure does not appear to be an exception.
 In many observed cases, it functions as a default condition.
 
 Therefore, the goal is not to prevent failure,
+
+
 but to design conditions under which systems do not collapse when failure occurs.
 
 This is not a prescription.
+
+
 It is a set of observed conditions.
+
+
 
 1. From Reaction to Structure
 
