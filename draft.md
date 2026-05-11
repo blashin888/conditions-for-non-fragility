@@ -209,6 +209,10 @@ Truth is unstable.
 
 Trace is not.
 
+Truth does not hold. 
+
+What remains is the trace.  
+
 Shift of focus:
 
 - From determining truth
