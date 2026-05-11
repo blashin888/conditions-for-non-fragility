@@ -22,7 +22,7 @@ but to design conditions under which systems do not collapse when failure occurs
 This is not a prescription.
 It is a set of observed conditions.
 
-1. From Reaction to Structure（反応から構造へ）
+1. From Reaction to Structure
 
 The starting point is not theory, but experience.
 
@@ -63,7 +63,8 @@ Non-fragility requires:
 
 Recognizing relative confidence
 Adjusting weight without collapsing dialogue
-3. Modes Before Meaning（モードが先にある）
+
+3. Modes Before Meaning
 
 Errors are not only about content.
 
@@ -84,6 +85,7 @@ Non-fragility requires:
 
 Recognizing context before responding
 Allowing mode transitions without rupture
+
 4. Distributed Structure, Anchored Responsibility
 
 Scale requires distribution.
@@ -199,6 +201,23 @@ To maintain is to allow controlled change
 This document is not final.
 
 It is updated through observation.
+
+Implementation is left open.
+
+Responsibility remains with those who choose to act.
+
+Appendix(add later)
+
+Practical experiments
+Minimal verification formats
+Interface concepts
+Case studies
+
+Closing
+
+This document does not instruct.
+
+It offers conditions.
 
 Implementation is left open.
 
