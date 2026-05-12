@@ -167,7 +167,7 @@ not universally accepted.
   
 - Visible procedure
 
-A decision can be retraced.
+A decision remains traceable.
 
 ---
 
@@ -264,7 +264,9 @@ Implementation is left open.
 
 ---
 
-### Appendix(add later)
+### Appendix
+
+(in progress)
 
 Practical experiments
 
