@@ -264,21 +264,21 @@ Non-fragility spreads through selection.
 
 ---
 
-10. Maintenance as Continuous Adaptation
+### 10. Maintenance as Continuous Adaptation
 
-Stability is not achieved by fixing structures.
+Stability does not come from fixed structures.  
 
-It is achieved by maintaining adaptability.
+It emerges through adaptability.  
 
-To maintain is to allow controlled change
+Controlled change is allowed.  
 
-This document is not final.
+This document is not final.  
 
-It is updated through observation.
+It is updated through observation.  
 
 Implementation is left open.
 
-Responsibility remains with those who choose to act.
+---
 
 Appendix(add later)
 
