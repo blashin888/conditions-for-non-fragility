@@ -34,10 +34,6 @@ This is not a prescription.
 
 It reflects observed conditions.
 
-This is not a prescription.
-
-It reflects observed conditions.
-
 This is not addressed to any specific role.
 
 It is an observation placed between roles.
@@ -61,8 +57,7 @@ A conflict occurs:
 
 The reaction is immediate: frustration.
 
-But when paused and examined,
-
+With pause,
 
 the conflict reveals a structural misalignment:
 
@@ -75,37 +70,34 @@ the conflict reveals a structural misalignment:
 Non-fragility begins here.
 
 Not by suppressing reaction,
+
 but by inserting a pause before escalation.
 
 ---
 
 ### 2. Trust as Allocation, Not Truth
 
-Trust is often not binary.
+Trust is not binary.
 
 It is dynamically allocated across:
 
 - Source (external credibility)
-
+  
 - User (contextual reliability)
 
 - System (internal confidence)
 
-Failure occurs when:
+The weakest certainty tends to be treated as the strongest.
 
-the weakest certainty tends to be treated as the strongest.
+Relative confidence is recognized.  
 
-Non-fragility requires:
-
-- Recognizing relative confidence
-  
-- Adjusting weight without collapsing dialogue
+Weight adjusts without collapsing dialogue.
 
 ---
 
 ### 3. Modes Before Meaning
 
-Errors are not only about content.
+Errors are not only about content.  
 
 They are about mode selection.
 
@@ -119,15 +111,11 @@ Different contexts call for different modes:
 
 - Emergency
 
-Failure occurs when:
+A situation tends to be processed under the wrong mode.
 
-a situation tends to be processed under the wrong mode.
+Context is recognized before response.  
 
-Non-fragility requires:
-
-- Recognizing context before responding
-
-- Allowing mode transitions without rupture
+Modes shift without rupture.
 
 ---
 
@@ -143,7 +131,9 @@ Distribution introduces:
 
 - Entry points for manipulation
 
-Non-fragility tends to come not from removing distribution, but from structuring it.
+Distribution remains.
+
+Structure defines it.
 
 - Roles are distributed
 
@@ -162,24 +152,20 @@ but it eventually needs to stop.
 
 Universal agreement is impossible.
 
-Instead, systems must aim for:
+Decisions become difficult to overturn,  
 
-decisions that are difficult to overturn,
 not universally accepted.
 
-Supported through:
 
 - Transparent facts
-
+  
 - Explicit rules
-
+  
 - Causal breakdown
-
+  
 - Proportional response
-
+  
 - Visible procedure
-
-The core condition:
 
 A decision can be retraced.
 
@@ -195,7 +181,7 @@ In modern systems:
 
 - Informal contexts harden into permanent records
 
-This creates disproportionate damage.
+Disproportionate damage emerges.
 
 The issue is not violation itself.
 
