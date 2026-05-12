@@ -1,93 +1,93 @@
-# Conditions for Non-Fragility
-
-## — A Living Whitepaper
-
-### 0. Premise
-
-This document does not attempt to define correctness.
-
-Assumptions:
-
-- People react before they reflect
-
-
-- Information distorts as it spreads
-
-
-- Trust is unevenly distributed
-
-
-- Responsibility is often diffused or avoided
-
-
-
-Failure does not appear to be an exception.
-
-In many observed cases, it functions as a default condition.
-
-The goal is not to prevent failure,
-
-but to design conditions under which systems do not collapse when failure occurs.
-
-#
-This is not a prescription.
-
-It reflects observed conditions.
-
-This is not addressed to any specific role.
-
-It is an observation placed between roles.
-
----
-
-
-### 1. From Reaction to Structure
-
-The starting point is not theory, but experience.
-
-A conflict occurs:
-
-- A user brings fresh information
-
+  # Conditions for Non-Fragility
   
-- A system responds with caution
-
+  ## — A Living Whitepaper
   
-- The user perceives denial
-
-The reaction is immediate: frustration.
-
-With pause,
-
-the conflict reveals a structural misalignment:
-
-- The “present” is not shared
-
-- Trust is weighted differently
-
-- Responsibility is handled asymmetrically
-
-Non-fragility begins here.
-
-Not by suppressing reaction,
-
-but by inserting a pause before escalation.
-
----
-
-### 2. Trust as Allocation, Not Truth
-
-Trust is not binary.
-
-It is dynamically allocated across:
-
-- Source (external credibility)
+  ### 0. Premise
   
-- User (contextual reliability)
-
-- System (internal confidence)
-
-The weakest certainty tends to be treated as the strongest.
+  This document does not attempt to define correctness.
+  
+  Assumptions:
+  
+  - People react before they reflect
+  
+  
+  - Information distorts as it spreads
+  
+  
+  - Trust is unevenly distributed
+  
+  
+  - Responsibility is often diffused or avoided
+  
+  
+  
+  Failure does not appear to be an exception.
+  
+  In many observed cases, it functions as a default condition.
+  
+  The goal is not to prevent failure,
+  
+  but to design conditions under which systems do not collapse when failure occurs.
+  
+  #
+  This is not a prescription.
+  
+  It reflects observed conditions.
+  
+  This is not addressed to any specific role.
+  
+  It is an observation placed between roles.
+  
+  ---
+  
+  
+  ### 1. From Reaction to Structure
+  
+  The starting point is not theory, but experience.
+  
+  A conflict occurs:
+  
+  - A user brings fresh information
+  
+    
+  - A system responds with caution
+  
+    
+  - The user perceives denial
+  
+  The reaction is immediate: frustration.
+  
+  With pause,
+  
+  the conflict reveals a structural misalignment:
+  
+  - The “present” is not shared
+  
+  - Trust is weighted differently
+  
+  - Responsibility is handled asymmetrically
+  
+  Non-fragility begins here.
+  
+  Not by suppressing reaction,
+  
+  but by inserting a pause before escalation.
+  
+  ---
+  
+  ### 2. Trust as Allocation, Not Truth
+  
+  Trust is not binary.
+  
+  It is dynamically allocated across:
+  
+  - Source (external credibility)
+    
+  - User (contextual reliability)
+  
+  - System (internal confidence)
+  
+  The weakest certainty tends to be treated as the strongest.
 
 Relative confidence is recognized.  
 
@@ -195,8 +195,6 @@ Truth is unstable.
 
 Trace is not.
 
-Truth does not hold. 
-
 What remains is the trace.  
 
 Shift of focus:
@@ -234,7 +232,7 @@ Uncertainty is not disguised.
 
 ---
 
-### 9. Adoption by Preference, Not Enforcemen
+### 9. Adoption by Preference, Not Enforcement
 
 Systems do not change by force.  
 
@@ -266,14 +264,19 @@ Implementation is left open.
 
 ---
 
-Appendix(add later)
+### Appendix(add later)
 
 Practical experiments
+
 Minimal verification formats
+
 Interface concepts
+
 Case studies
 
-Closing
+---
+
+### Closing
 
 This document does not instruct.
 
@@ -281,4 +284,4 @@ It offers conditions.
 
 Implementation is left open.
 
-Responsibility remains with those who choose to act.
+Responsibility remains with those who act.
