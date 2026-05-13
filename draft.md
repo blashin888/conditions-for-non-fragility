@@ -19,8 +19,6 @@
   
   - Responsibility is often diffused or avoided
   
-  
-  
   In many cases, failure functions as a default condition.
   
   The goal is not to prevent failure,
