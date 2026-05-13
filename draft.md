@@ -216,6 +216,27 @@ Implementation is left open.
 
 ---
 
+### 11. Asynchrony and Internal Pace
+
+External speed cannot be blocked.
+
+Detection and non-synchronization become primary.
+
+Internal pace is maintained by not aligning by default.
+
+Asynchrony is the baseline.
+
+Incidental synchronization is not excluded.
+
+Disconnection is not avoidance.
+
+It is adjustment.
+
+Fragments do not require immediate connection.
+
+They remain as potential structure.
+
+---
 ### Closing
 
 This document does not instruct.
