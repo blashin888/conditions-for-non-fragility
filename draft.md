@@ -10,12 +10,9 @@
   
   - People react before they reflect
   
-  
   - Information distorts as it spreads
   
-  
   - Trust is unevenly distributed
-  
   
   - Responsibility is often diffused or avoided
   
@@ -50,8 +47,7 @@
     
   - The user perceives denial
   
-  
-  - The reaction is immediate: frustration
+  The reaction is immediate: frustration.
   
   With pause,
   
@@ -189,7 +185,9 @@ It is misalignment between scale and response.
 
 Truth is unstable.
 
-Trace remains. 
+Trace remains.
+
+What remains is the trace.  
 
 Shift of focus:
 
@@ -262,13 +260,13 @@ Implementation is left open.
 
 (in progress)
 
-- Practical experiments
-  
-- Minimal verification formats
-  
-- Interface concepts
-  
-- Case studies
+Practical experiments
+
+Minimal verification formats
+
+Interface concepts
+
+Case studies
 
 ---
 
