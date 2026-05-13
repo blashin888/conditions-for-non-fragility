@@ -286,4 +286,4 @@ It offers conditions.
 
 Implementation is left open.
 
-Responsibility remains with those who act.
+Responsibility remains.
