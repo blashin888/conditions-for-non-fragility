@@ -21,9 +21,7 @@
   
   
   
-  Failure does not appear to be an exception.
-  
-  In many observed cases, it functions as a default condition.
+  In many cases, failure functions as a default condition.
   
   The goal is not to prevent failure,
   
@@ -44,8 +42,8 @@
   ### 1. From Reaction to Structure
   
   The starting point is not theory, but experience.
-  
-  A conflict occurs:
+
+  A conflict emerges:
   
   - A user brings fresh information
   
@@ -87,7 +85,7 @@
   
   - System (internal confidence)
   
-  The weakest certainty tends to be treated as the strongest.
+  The weakest certainty is often treated as the strongest.
 
 Relative confidence is recognized.  
 
@@ -144,7 +142,7 @@ Structure defines it.
 Responsibility may flow,
 
 
-but it eventually needs to stop.
+but it eventually settles somewhere.
 
 ---
 
@@ -193,7 +191,7 @@ It is misalignment between scale and response.
 
 Truth is unstable.
 
-Trace is not.
+Trace remains.
 
 What remains is the trace.  
 
@@ -242,7 +240,7 @@ Visibility shifts to verified information.
 
 Trust accumulates in traceable sources.
 
-Influence leaves what cannot be traced.
+Influence leaves traces that cannot be fully tracked.
 
 Non-fragility spreads through selection.
 
