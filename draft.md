@@ -230,7 +230,7 @@ Incidental synchronization is not excluded.
 
 Disconnection is not avoidance.
 
-It is adjustment.
+Adjustment.
 
 Fragments do not require immediate connection.
 
