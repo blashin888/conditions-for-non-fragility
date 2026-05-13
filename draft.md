@@ -27,7 +27,6 @@
   
   but to design conditions under which systems do not collapse when failure occurs.
   
-  #
   This is not a prescription.
   
   It reflects observed conditions.
@@ -53,7 +52,8 @@
     
   - The user perceives denial
   
-  The reaction is immediate: frustration.
+  
+  - The reaction is immediate: frustration
   
   With pause,
   
@@ -191,9 +191,7 @@ It is misalignment between scale and response.
 
 Truth is unstable.
 
-Trace remains.
-
-What remains is the trace.  
+Trace remains. 
 
 Shift of focus:
 
@@ -266,13 +264,13 @@ Implementation is left open.
 
 (in progress)
 
-Practical experiments
-
-Minimal verification formats
-
-Interface concepts
-
-Case studies
+- Practical experiments
+  
+- Minimal verification formats
+  
+- Interface concepts
+  
+- Case studies
 
 ---
 
