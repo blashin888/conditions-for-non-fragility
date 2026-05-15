@@ -6,6 +6,10 @@
 
 This document does not attempt to define correctness.
 
+Identity is continuously updated.
+
+Continuity remains.
+
 Assumptions:
 
 - People react before they reflect
