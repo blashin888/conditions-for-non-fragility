@@ -205,6 +205,9 @@ Controlled change is allowed.
 This document is not final.
 It is updated through observation.
 
+Meaning does not reside in outcome alone.
+It emerges through process and relation.
+
 Implementation is left open.
 
 ---
