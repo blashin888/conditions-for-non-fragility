@@ -244,6 +244,19 @@ Fragments do not require immediate connection.
 They remain as potential structure.
 
 ---
+
+### 12. Observation Before Implementation
+
+- weak connection
+- continuity anomaly
+- staged disclosure
+- synchronized only when needed
+- distributed identity
+- adjustment over reaction
+- layered verification
+- observation before enforcement
+
+---
 ### Closing
 
 This document does not instruct.
