@@ -244,17 +244,19 @@ Fragments do not require immediate connection.
 They remain as potential structure.
 
 ---
+### 12. Observation Before Resolution
 
-### 12. Observation Before Implementation
-
-- weak connection
-- continuity anomaly
-- staged disclosure
+ Core Conditions
 - synchronized only when needed
-- distributed identity
 - adjustment over reaction
-- layered verification
 - observation before enforcement
+  
+ Deferred Conditions
+- inference restraint
+- convergence deferral
+- observable questioning
+- staged uncertainty disclosure
+- asynchronous continuity
 
 ---
 ### Closing
