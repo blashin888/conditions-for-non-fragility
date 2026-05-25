@@ -2,8 +2,8 @@
 
 A suggestion is never neutral.
 
-When a system proposes externalization,
-it introduces introduces directional pressure.
+When a system proposes externalization, 
+it introduces directional pressure.
 
 The question is not whether prompting occurs,
 but under what observed conditions acceleration becomes justified.
