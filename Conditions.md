@@ -212,17 +212,6 @@ Implementation is left open.
 
 ---
 
-### Appendix
-
-(in progress)
-
-- Practical experiments
-- Minimal verification formats
-- Interface concepts
-- Case studies
-
----
-
 ### 11. Asynchrony and Internal Pace
 
 External speed cannot be blocked.
@@ -259,6 +248,10 @@ They remain as potential structure.
 - asynchronous continuity
 
 ---
+
+Further extensions remain open.
+Operational branches continue elsewhere.
+
 ### Closing
 
 This document does not instruct.
