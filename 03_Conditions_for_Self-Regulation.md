@@ -7,8 +7,8 @@ Systems remain non-fragile when regulation can occur before reaction.
 
 Conditions include:
 
--detectable internal friction
--preserved interpretive delay
--reversible engagement
--unforced acknowledgment
--space for refusal without rupture
+- observable internal friction
+- preserved interpretive delay
+- reversible engagement
+- unforced acknowledgment
+- space for refusal without rupture
